@@ -33,6 +33,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
+google_fonts: "Fira+Sans:400,400i,700|Fira+Mono"   # body | code
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -107,3 +110,19 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# Analytics (Cloudflare Web Analytics example)
+cloudflare_analytics:
+  enabled: true
+  token  : "your-public-site-token"
+
+# Comments (use e.g. Giscus or Disqus)
+comments:
+  provider: giscus
+  giscus:
+    repo: "Agent99/Agent99.github.io"
+    repo_id: "..."
+    category: "Announcements"
+    category_id: "..."
+
