@@ -107,3 +107,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# Theme
+minimal_mistakes_skins: "sunrise"
