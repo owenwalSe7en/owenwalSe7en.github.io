@@ -74,15 +74,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "/https://www.linkedin.com/in/owen-wallace-a59507232/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/owenwalSe7en?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/o_wallace45/"
 
 defaults:
   # _posts
