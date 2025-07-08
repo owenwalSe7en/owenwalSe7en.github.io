@@ -60,7 +60,7 @@ author:
   bio    : "I'm here to secure my little piece of the internet."
   links:
     - label: "Linkedin"
-      icon: "linkedinLogo.jpg"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "/https://www.linkedin.com/in/owen-wallace-a59507232/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "linkedinLogo.jpg"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "/https://www.linkedin.com/in/owen-wallace-a59507232/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
