@@ -62,30 +62,24 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "/https://www.linkedin.com/in/owen-wallace-a59507232/"
-      target: _blank
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/owenwalSe7en?tab=repositories"
-      target: _blank
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/o_wallace45/"
-      target: _blank
 
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "/https://www.linkedin.com/in/owen-wallace-a59507232/"
-      target: _blank
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/owenwalSe7en?tab=repositories"
-      target: _blank
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/o_wallace45/"
-      target: _blank
 
 defaults:
   # _posts
