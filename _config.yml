@@ -61,7 +61,7 @@ author:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/feed/"
+      url: "https://www.linkedin.com/in/owen-wallace-a59507232/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/owenwalSe7en?tab=repositories"
@@ -73,7 +73,7 @@ footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "/https://www.linkedin.com/in/owen-wallace-a59507232/"
+      url: "https://www.linkedin.com/in/owen-wallace-a59507232/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/owenwalSe7en?tab=repositories"
