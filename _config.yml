@@ -18,7 +18,7 @@ description: "Student of Life • CS • AI Realist"
 url: "https://owenwalSe7en.github.io"
 
 github_username: owenwalSe7en
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "sunrise"
 search: true
 
 # Build settings
@@ -107,7 +107,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-# Theme
-minimal_mistakes_skins: "sunrise"
