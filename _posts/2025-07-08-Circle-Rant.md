@@ -1,5 +1,5 @@
 ---
-title: "The Circle - Rank"
+title: "The Circle - Rant"
 date: 2025-07-08T15:34:30-04:00
 categories:
   - thoughts
