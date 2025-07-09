@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Website!"
+title: "The Circle - Rank"
 date: 2025-07-08T15:34:30-04:00
 categories:
   - thoughts
