@@ -33,8 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-google_fonts: "Fira+Sans:400,400i,700|Fira+Mono"   # body | code
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
